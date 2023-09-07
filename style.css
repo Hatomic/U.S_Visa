@@ -1,0 +1,402 @@
+body {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+.first_page {
+    /* margin-bottom: 120px; */
+    background-image: url("img/Hero image.png");height: 800px;
+    width: 100%;
+    padding-top: 10px;
+}
+#logo {
+    margin-left: 30px;
+    color:  #FFF;
+}
+.navbar {
+    float: right;
+    margin-right: 20px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+#nav_item {
+    padding-left: 20px;
+    color:  #FFF;
+}
+#apply {
+    width: 90px;
+    height: 30px;
+    top: 12px;
+    cursor: pointer;
+    margin-left: 15px;
+    border-radius: 5px;
+    border-width: 1px;
+    border-color: #FFFFFF;
+    color:  #FFFFFF;
+    background-color: transparent;
+ }
+ #apply:hover {
+    background-color: #FFF;
+    color: #FB8500;
+ }
+ .main {
+    margin-top: -700px;
+    text-align: center;
+ }
+ .left {
+    color: #FFF;
+ }
+ #visa {
+    font-size: 65px;
+ }
+ #paragraph1 {
+    width: 300px;
+    margin-left: 20%;
+    font-size: 20px;
+    margin-top: -20px;
+ }
+ #sign, #login {
+    height: 50px;
+    width: 160px;
+    border-radius: 5px;
+    font-weight: 500;
+    font-size: 15px;
+    cursor: pointer;
+    border-width: 1px;
+    background-color: #FFFFFF;
+    color: #FB8500;
+    margin-bottom: 20px;
+}
+#login {
+    margin-left: 40px;
+    color: #FB8500;
+border-color: #FB8500;
+background-color: transparent;
+}
+#sign:hover {
+    color: #FB8500;
+    border-color: #FB8500;
+    background-color: transparent;
+}
+#login:hover {
+    background-color: #FFFFFF;
+    color: #FB8500;
+}
+.box_casing {
+    width: 400px;
+    height: 200px;
+    border-color: #FB8500;
+    background-color: transparent;
+    border-width: 1px;
+    border-radius: 5px;
+    backdrop-filter: blur(10px);
+    color: #FFFFFF;
+    margin-top: 35px;
+}
+.box {
+    margin-top: 10px;
+}
+#box_item {
+    margin-right: 25px;  
+}
+#box_item1 {
+   margin-left: 20px;  
+}
+#box_item2 {
+margin-left: 35px;  
+}
+#box_item3 {
+    margin-right:5px;  
+} 
+#box_item4 {
+    margin-left: 85px;
+    filter: blur(6px);
+}
+#box_item5 {
+    margin-right: 70px;
+}
+.box2 {
+   margin-top: 25px;
+}
+#box_item6 {
+    margin-right: 40px;
+}
+#box_item7 {
+    margin-left: 30px;
+}
+#box_item8 {
+    margin-left: 25px;
+}
+#box_item0 {
+    margin-left: 200px;
+    filter: blur(6px);
+}
+.left1 {
+    margin-left: 50px;
+} 
+#welcome {
+  text-align: center;
+    right: 74.03%;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    margin-top: 150px;
+    color: #023047;
+}
+.paragraph2 {
+    width: 93%;
+    margin-top: 30px;
+    margin-bottom: 220px;
+    height: 100px;
+    margin-left: 0px;
+    font-size: 24px;
+    color: #0D1B31;
+}
+.right2 { 
+    height: 600px; 
+    width: 100%;
+    margin-left: -17px; 
+    filter: drop-shadow(0px 4px 40px rgba(0, 0, 0, 0.25));
+}
+.third_page {
+margin-top: 30px;
+}
+#news {
+height: 60px;
+margin-left: 50px;
+right: 63.75%;
+margin-top: 150px;
+font-weight: 700;
+font-size: 48px;
+line-height: 124%;
+display: flex;
+align-items: flex-end;
+color: #023047;
+}
+#image1 {
+    width: 300px;
+    height: 200px;
+    left: 110px;
+    margin-left: 50px;
+    top: 1962px;
+}
+#mrv {
+margin-left: 50px;
+right: 80.14%;
+top: 55.61%;
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+color: #FB8500;
+}
+#date {
+width: 147px;
+margin-left: 50px;
+height: 20px;
+left: 110px;
+top: 2305px;
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 140.1%;
+color: #22215B;
+}
+#receipt {
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+margin-left: 50px;
+width: 45%;
+line-height: 140.1%;
+text-align: justify;
+color: rgba(34, 33, 91, 0.6); 
+margin-right: 60px;
+}
+#read {
+    margin-left: 50px;
+}
+#image2, #image3, #image4, #image5 {
+    width: 85%;
+    height: 300px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+#validation, #validation1 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+    color: #0D1B31;
+}
+.forth_page {
+    background-color: rgb(2,48,71);
+    height: 1850px;
+    width: 100%;
+}
+#fly {
+    width: 397px;
+    height: 174px;
+    margin-left: 300px;
+    padding-top: 230px;
+    font-weight: 900;
+    font-size: 95px;
+    color: #FFFFFF;
+}
+.left4 {
+    height: 750px;
+    margin-left: -120px;
+    margin-top: 1px;
+    width: 100%;
+}
+.right4th {
+    padding-right: 25px;
+    padding-top: 40px;
+    margin-top: 150px;
+    padding-left: 20px;
+}
+#nonimmigrant {
+    margin-left: 50px;
+    Font-style: Bold;
+    Font-size: 15px;
+    color: #FFFFFF;    
+}
+#visa_type {
+    color: #69B6DC;
+    font-size: 16px;
+    margin-top: 10px;
+    width: 30%;
+    margin-left: 50px;
+}
+.right4th {
+    margin-top: 20px;
+}
+.right4th_1 {
+    margin-bottom: 30px;
+}
+.forth_pagebox {
+    display: flex;
+    margin-bottom: 100px;
+}
+#img1 {
+    height: 150px;
+    width: 150px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+
+@media (min-width: 1024px) {
+    .main {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+}
+.left {
+    margin-top: 60px;
+}
+#visa {
+    width: 60%;
+    margin-left: 120px;
+}
+#paragraph1 {
+    width: 40%;
+    margin-left: 210px;
+    margin-bottom: 50px;
+}
+#sign {
+    margin-left: -80px;
+}
+.box_casing {
+    margin-top: 440px;
+    margin-right: 200px;
+}
+.second_page {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    margin-top: 80px;
+}
+.third_page {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-top: 80px;
+}
+.forth_page {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    margin-top: 80px;
+}
+#welcome {
+    position: absolute;
+    height: 60px;
+    left: 7.64%;
+    right: 74.03%;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 124%;
+    display: flex;
+    align-items: flex-end;
+    margin-top: 150px;
+}
+.paragraph2 {
+    position: absolute;
+    width: 438px;
+    margin-top: 250px;
+    height: 100px;
+    left: 7.64%;
+    font-size: 14px;
+}
+.right2 {
+    margin-left: 200px;
+    width: 676px;
+}
+
+.right3 {
+    margin-top: 200px;
+    margin-left: 80px;
+}
+.right3right {
+    margin-top: 200px;
+    margin-left: -50px;
+}
+#image2, #image3, #image4, #image5 {
+    width: 200px;
+    height: 150px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+#validation, #validation1 {
+    font-size: 11px;
+    margin-left: -150px;
+}
+#fly {
+    width: 597px;
+    height: 174px;
+    margin-left: 210px;
+    margin-top: 210px;
+    margin-top: -20px;
+    font-size: 144px;
+}
+#left4 {
+    width: 1000px;
+    margin-left: 550px;
+    margin-top: 1px;
+    height: 700px;
+}
+#visa_type{
+    width: 35%;
+    margin-left: 10px;
+}
+#nonimmigrant {
+    margin-left: 10px;
+}
+.forth_page {
+    height: 1250px;
+}
+.right4th {
+    margin-top: 200px;
+}
+.forth_pagebox {
+    margin-bottom: 20px;
+}
+}
